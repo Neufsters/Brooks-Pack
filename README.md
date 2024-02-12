@@ -1,7 +1,7 @@
 # Brooks-Pack
 Brooks' Minecraft Texture Pack
 
-Created on january 4, 2024
+Get the latest release here! [https://github.com/Neufsters/Brooks-Pack/releases](https://github.com/Neufsters/Brooks-Pack/releases)
 
 <hr>
 
