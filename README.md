@@ -12,7 +12,6 @@ Items Added:
 
 	Netherite Sword
 	STATUS: finished
-	In off hand the size is 4 :)
 Adjustments:
 	Item drop size: 1 ==> 0.6
 ===============================
