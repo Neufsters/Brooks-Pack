@@ -5,6 +5,22 @@ Get the latest release here! [https://github.com/Neufsters/Brooks-Pack/releases]
 
 <hr>
 
+# 1.02
+
+Release: 2/13/23
+```
+Items Updated:
+- Netherite Sword
+	- Center orb animation added
+
+- Iron Sword
+	- Blade texture updated
+
+- Stone Sword
+	- Blade texture updated
+```
+<hr>
+
 # 1.01
 
 Release: 2/12/2024
