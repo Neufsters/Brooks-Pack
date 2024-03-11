@@ -5,6 +5,37 @@ Get the latest release here! [https://github.com/Neufsters/Brooks-Pack/releases]
 
 <hr>
 
+# 1.1
+
+Release: 3/11/24
+```
+New Items:
+- Netherite Axe
+	- Model Created
+	- Texture Created
+
+- Diamond Axe
+	- Model Created
+	- Texture Created
+
+- Golden Axe
+	- Model Created
+	- Texture Created
+
+- Iron Axe
+	- Model Created
+	- Texture Created
+
+- Stone Axe
+	- Model Created
+	- Texture Created
+
+- Wooden Axe
+	- Model Created
+	- Texture Created
+```
+<hr>
+
 # 1.02
 
 Release: 2/13/23
